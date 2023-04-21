@@ -1,0 +1,88 @@
+Z:\JTS Project\GUIForJTS - FOR_TESTING\bin\Debug\net6.0-windows\Jaguars Tech Support.exe
+Z:\JTS Project\GUIForJTS - FOR_TESTING\bin\Debug\net6.0-windows\Jaguars Tech Support.deps.json
+Z:\JTS Project\GUIForJTS - FOR_TESTING\bin\Debug\net6.0-windows\Jaguars Tech Support.runtimeconfig.json
+Z:\JTS Project\GUIForJTS - FOR_TESTING\bin\Debug\net6.0-windows\Jaguars Tech Support.dll
+Z:\JTS Project\GUIForJTS - FOR_TESTING\bin\Debug\net6.0-windows\Jaguars Tech Support.pdb
+Z:\JTS Project\GUIForJTS - FOR_TESTING\bin\Debug\net6.0-windows\EntityFramework.SqlServer.dll
+Z:\JTS Project\GUIForJTS - FOR_TESTING\bin\Debug\net6.0-windows\EntityFramework.dll
+Z:\JTS Project\GUIForJTS - FOR_TESTING\bin\Debug\net6.0-windows\System.Data.SQLite.dll
+Z:\JTS Project\GUIForJTS - FOR_TESTING\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+Z:\JTS Project\GUIForJTS - FOR_TESTING\bin\Debug\net6.0-windows\System.Data.SQLite.EF6.dll
+Z:\JTS Project\GUIForJTS - FOR_TESTING\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+Z:\JTS Project\GUIForJTS - FOR_TESTING\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+Z:\JTS Project\GUIForJTS - FOR_TESTING\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+Z:\JTS Project\GUIForJTS - FOR_TESTING\bin\Debug\net6.0-windows\runtimes\linux-x64\native\SQLite.Interop.dll
+Z:\JTS Project\GUIForJTS - FOR_TESTING\bin\Debug\net6.0-windows\runtimes\osx-x64\native\SQLite.Interop.dll
+Z:\JTS Project\GUIForJTS - FOR_TESTING\bin\Debug\net6.0-windows\runtimes\win-x64\native\SQLite.Interop.dll
+Z:\JTS Project\GUIForJTS - FOR_TESTING\bin\Debug\net6.0-windows\runtimes\win-x86\native\SQLite.Interop.dll
+Z:\JTS Project\GUIForJTS - FOR_TESTING\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+Z:\JTS Project\GUIForJTS - FOR_TESTING\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+Z:\JTS Project\GUIForJTS - FOR_TESTING\obj\Debug\net6.0-windows\Jaguars Tech Support.csproj.AssemblyReference.cache
+Z:\JTS Project\GUIForJTS - FOR_TESTING\obj\Debug\net6.0-windows\Jaguars_Tech_Support.Boundary.CustomerScreen.resources
+Z:\JTS Project\GUIForJTS - FOR_TESTING\obj\Debug\net6.0-windows\Jaguars_Tech_Support.Boundary.Form1.resources
+Z:\JTS Project\GUIForJTS - FOR_TESTING\obj\Debug\net6.0-windows\Jaguars_Tech_Support.Boundary.LoginForm.resources
+Z:\JTS Project\GUIForJTS - FOR_TESTING\obj\Debug\net6.0-windows\Jaguars_Tech_Support.Boundary.TechnicianScreen.resources
+Z:\JTS Project\GUIForJTS - FOR_TESTING\obj\Debug\net6.0-windows\Jaguars_Tech_Support.Boundary.TicketForm.resources
+Z:\JTS Project\GUIForJTS - FOR_TESTING\obj\Debug\net6.0-windows\Jaguars_Tech_Support.Boundary.TicketScreen.resources
+Z:\JTS Project\GUIForJTS - FOR_TESTING\obj\Debug\net6.0-windows\Jaguars_Tech_Support.Boundary.UpdateScreen.resources
+Z:\JTS Project\GUIForJTS - FOR_TESTING\obj\Debug\net6.0-windows\GUIForJTS.CustomTextBox.resources
+Z:\JTS Project\GUIForJTS - FOR_TESTING\obj\Debug\net6.0-windows\GUIForJTS.techBox.resources
+Z:\JTS Project\GUIForJTS - FOR_TESTING\obj\Debug\net6.0-windows\GUIForJTS.ticketBox.resources
+Z:\JTS Project\GUIForJTS - FOR_TESTING\obj\Debug\net6.0-windows\GUIForJTS.TicketFormGUI.resources
+Z:\JTS Project\GUIForJTS - FOR_TESTING\obj\Debug\net6.0-windows\GUIForJTS.UpdateScreenGUI.resources
+Z:\JTS Project\GUIForJTS - FOR_TESTING\obj\Debug\net6.0-windows\Jaguars_Tech_Support.Properties.Resources.resources
+Z:\JTS Project\GUIForJTS - FOR_TESTING\obj\Debug\net6.0-windows\Jaguars Tech Support.csproj.GenerateResource.cache
+Z:\JTS Project\GUIForJTS - FOR_TESTING\obj\Debug\net6.0-windows\Jaguars Tech Support.GeneratedMSBuildEditorConfig.editorconfig
+Z:\JTS Project\GUIForJTS - FOR_TESTING\obj\Debug\net6.0-windows\Jaguars Tech Support.AssemblyInfoInputs.cache
+Z:\JTS Project\GUIForJTS - FOR_TESTING\obj\Debug\net6.0-windows\Jaguars Tech Support.AssemblyInfo.cs
+Z:\JTS Project\GUIForJTS - FOR_TESTING\obj\Debug\net6.0-windows\Jaguars Tech Support.csproj.CoreCompileInputs.cache
+Z:\JTS Project\GUIForJTS - FOR_TESTING\obj\Debug\net6.0-windows\Jaguars Tech Support.csproj.CopyComplete
+Z:\JTS Project\GUIForJTS - FOR_TESTING\obj\Debug\net6.0-windows\Jaguars Tech Support.dll
+Z:\JTS Project\GUIForJTS - FOR_TESTING\obj\Debug\net6.0-windows\refint\Jaguars Tech Support.dll
+Z:\JTS Project\GUIForJTS - FOR_TESTING\obj\Debug\net6.0-windows\Jaguars Tech Support.pdb
+Z:\JTS Project\GUIForJTS - FOR_TESTING\obj\Debug\net6.0-windows\Jaguars Tech Support.genruntimeconfig.cache
+Z:\JTS Project\GUIForJTS - FOR_TESTING\obj\Debug\net6.0-windows\ref\Jaguars Tech Support.dll
+Z:\JTS Project\JaguarsTechSupport\bin\Debug\net6.0-windows\Jaguars Tech Support.exe
+Z:\JTS Project\JaguarsTechSupport\bin\Debug\net6.0-windows\Jaguars Tech Support.deps.json
+Z:\JTS Project\JaguarsTechSupport\bin\Debug\net6.0-windows\Jaguars Tech Support.runtimeconfig.json
+Z:\JTS Project\JaguarsTechSupport\bin\Debug\net6.0-windows\Jaguars Tech Support.dll
+Z:\JTS Project\JaguarsTechSupport\bin\Debug\net6.0-windows\Jaguars Tech Support.pdb
+Z:\JTS Project\JaguarsTechSupport\bin\Debug\net6.0-windows\EntityFramework.SqlServer.dll
+Z:\JTS Project\JaguarsTechSupport\bin\Debug\net6.0-windows\EntityFramework.dll
+Z:\JTS Project\JaguarsTechSupport\bin\Debug\net6.0-windows\System.Data.SQLite.dll
+Z:\JTS Project\JaguarsTechSupport\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+Z:\JTS Project\JaguarsTechSupport\bin\Debug\net6.0-windows\System.Data.SQLite.EF6.dll
+Z:\JTS Project\JaguarsTechSupport\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+Z:\JTS Project\JaguarsTechSupport\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+Z:\JTS Project\JaguarsTechSupport\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+Z:\JTS Project\JaguarsTechSupport\bin\Debug\net6.0-windows\runtimes\linux-x64\native\SQLite.Interop.dll
+Z:\JTS Project\JaguarsTechSupport\bin\Debug\net6.0-windows\runtimes\osx-x64\native\SQLite.Interop.dll
+Z:\JTS Project\JaguarsTechSupport\bin\Debug\net6.0-windows\runtimes\win-x64\native\SQLite.Interop.dll
+Z:\JTS Project\JaguarsTechSupport\bin\Debug\net6.0-windows\runtimes\win-x86\native\SQLite.Interop.dll
+Z:\JTS Project\JaguarsTechSupport\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+Z:\JTS Project\JaguarsTechSupport\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+Z:\JTS Project\JaguarsTechSupport\obj\Debug\net6.0-windows\Jaguars Tech Support.csproj.AssemblyReference.cache
+Z:\JTS Project\JaguarsTechSupport\obj\Debug\net6.0-windows\Jaguars_Tech_Support.Boundary.CustomerScreen.resources
+Z:\JTS Project\JaguarsTechSupport\obj\Debug\net6.0-windows\Jaguars_Tech_Support.Boundary.Form1.resources
+Z:\JTS Project\JaguarsTechSupport\obj\Debug\net6.0-windows\Jaguars_Tech_Support.Boundary.LoginForm.resources
+Z:\JTS Project\JaguarsTechSupport\obj\Debug\net6.0-windows\Jaguars_Tech_Support.Boundary.TechnicianScreen.resources
+Z:\JTS Project\JaguarsTechSupport\obj\Debug\net6.0-windows\Jaguars_Tech_Support.Boundary.TicketForm.resources
+Z:\JTS Project\JaguarsTechSupport\obj\Debug\net6.0-windows\Jaguars_Tech_Support.Boundary.TicketScreen.resources
+Z:\JTS Project\JaguarsTechSupport\obj\Debug\net6.0-windows\Jaguars_Tech_Support.Boundary.UpdateScreen.resources
+Z:\JTS Project\JaguarsTechSupport\obj\Debug\net6.0-windows\GUIForJTS.CustomTextBox.resources
+Z:\JTS Project\JaguarsTechSupport\obj\Debug\net6.0-windows\GUIForJTS.techBox.resources
+Z:\JTS Project\JaguarsTechSupport\obj\Debug\net6.0-windows\GUIForJTS.ticketBox.resources
+Z:\JTS Project\JaguarsTechSupport\obj\Debug\net6.0-windows\GUIForJTS.TicketFormGUI.resources
+Z:\JTS Project\JaguarsTechSupport\obj\Debug\net6.0-windows\GUIForJTS.UpdateScreenGUI.resources
+Z:\JTS Project\JaguarsTechSupport\obj\Debug\net6.0-windows\Jaguars_Tech_Support.Properties.Resources.resources
+Z:\JTS Project\JaguarsTechSupport\obj\Debug\net6.0-windows\Jaguars Tech Support.csproj.GenerateResource.cache
+Z:\JTS Project\JaguarsTechSupport\obj\Debug\net6.0-windows\Jaguars Tech Support.GeneratedMSBuildEditorConfig.editorconfig
+Z:\JTS Project\JaguarsTechSupport\obj\Debug\net6.0-windows\Jaguars Tech Support.AssemblyInfoInputs.cache
+Z:\JTS Project\JaguarsTechSupport\obj\Debug\net6.0-windows\Jaguars Tech Support.AssemblyInfo.cs
+Z:\JTS Project\JaguarsTechSupport\obj\Debug\net6.0-windows\Jaguars Tech Support.csproj.CoreCompileInputs.cache
+Z:\JTS Project\JaguarsTechSupport\obj\Debug\net6.0-windows\Jaguars Tech Support.csproj.CopyComplete
+Z:\JTS Project\JaguarsTechSupport\obj\Debug\net6.0-windows\Jaguars Tech Support.dll
+Z:\JTS Project\JaguarsTechSupport\obj\Debug\net6.0-windows\refint\Jaguars Tech Support.dll
+Z:\JTS Project\JaguarsTechSupport\obj\Debug\net6.0-windows\Jaguars Tech Support.pdb
+Z:\JTS Project\JaguarsTechSupport\obj\Debug\net6.0-windows\Jaguars Tech Support.genruntimeconfig.cache
+Z:\JTS Project\JaguarsTechSupport\obj\Debug\net6.0-windows\ref\Jaguars Tech Support.dll

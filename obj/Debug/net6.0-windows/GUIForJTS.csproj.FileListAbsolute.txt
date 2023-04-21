@@ -1,0 +1,89 @@
+Z:\JTS Project\GUIForJTS\bin\Debug\net6.0-windows\GUIForJTS.exe
+Z:\JTS Project\GUIForJTS\bin\Debug\net6.0-windows\GUIForJTS.deps.json
+Z:\JTS Project\GUIForJTS\bin\Debug\net6.0-windows\GUIForJTS.runtimeconfig.json
+Z:\JTS Project\GUIForJTS\bin\Debug\net6.0-windows\GUIForJTS.dll
+Z:\JTS Project\GUIForJTS\bin\Debug\net6.0-windows\GUIForJTS.pdb
+Z:\JTS Project\GUIForJTS\obj\Debug\net6.0-windows\GUIForJTS.csproj.AssemblyReference.cache
+Z:\JTS Project\GUIForJTS\obj\Debug\net6.0-windows\GUIForJTS.CreateTicketPage.resources
+Z:\JTS Project\GUIForJTS\obj\Debug\net6.0-windows\GUIForJTS.CustomerPage.resources
+Z:\JTS Project\GUIForJTS\obj\Debug\net6.0-windows\GUIForJTS.CustomTextBox.resources
+Z:\JTS Project\GUIForJTS\obj\Debug\net6.0-windows\GUIForJTS.Form1.resources
+Z:\JTS Project\GUIForJTS\obj\Debug\net6.0-windows\GUIForJTS.Properties.Resources.resources
+Z:\JTS Project\GUIForJTS\obj\Debug\net6.0-windows\GUIForJTS.TechnicianPage.resources
+Z:\JTS Project\GUIForJTS\obj\Debug\net6.0-windows\GUIForJTS.csproj.GenerateResource.cache
+Z:\JTS Project\GUIForJTS\obj\Debug\net6.0-windows\GUIForJTS.GeneratedMSBuildEditorConfig.editorconfig
+Z:\JTS Project\GUIForJTS\obj\Debug\net6.0-windows\GUIForJTS.AssemblyInfoInputs.cache
+Z:\JTS Project\GUIForJTS\obj\Debug\net6.0-windows\GUIForJTS.AssemblyInfo.cs
+Z:\JTS Project\GUIForJTS\obj\Debug\net6.0-windows\GUIForJTS.csproj.CoreCompileInputs.cache
+Z:\JTS Project\GUIForJTS\obj\Debug\net6.0-windows\GUIForJTS.dll
+Z:\JTS Project\GUIForJTS\obj\Debug\net6.0-windows\refint\GUIForJTS.dll
+Z:\JTS Project\GUIForJTS\obj\Debug\net6.0-windows\GUIForJTS.pdb
+Z:\JTS Project\GUIForJTS\obj\Debug\net6.0-windows\GUIForJTS.genruntimeconfig.cache
+Z:\JTS Project\GUIForJTS\obj\Debug\net6.0-windows\ref\GUIForJTS.dll
+Z:\JTS Project\GUIForJTS\obj\Debug\net6.0-windows\GUIForJTS.UpdateTicket.resources
+Z:\JTS Project\GUIForJTS - BEFORE CONSOLE APP\bin\Debug\net6.0-windows\GUIForJTS.exe
+Z:\JTS Project\GUIForJTS - BEFORE CONSOLE APP\bin\Debug\net6.0-windows\GUIForJTS.deps.json
+Z:\JTS Project\GUIForJTS - BEFORE CONSOLE APP\bin\Debug\net6.0-windows\GUIForJTS.runtimeconfig.json
+Z:\JTS Project\GUIForJTS - BEFORE CONSOLE APP\bin\Debug\net6.0-windows\GUIForJTS.dll
+Z:\JTS Project\GUIForJTS - BEFORE CONSOLE APP\bin\Debug\net6.0-windows\GUIForJTS.pdb
+Z:\JTS Project\GUIForJTS - BEFORE CONSOLE APP\obj\Debug\net6.0-windows\GUIForJTS.csproj.AssemblyReference.cache
+Z:\JTS Project\GUIForJTS - BEFORE CONSOLE APP\obj\Debug\net6.0-windows\GUIForJTS.CreateTicketPage.resources
+Z:\JTS Project\GUIForJTS - BEFORE CONSOLE APP\obj\Debug\net6.0-windows\GUIForJTS.CustomerPage.resources
+Z:\JTS Project\GUIForJTS - BEFORE CONSOLE APP\obj\Debug\net6.0-windows\GUIForJTS.CustomTextBox.resources
+Z:\JTS Project\GUIForJTS - BEFORE CONSOLE APP\obj\Debug\net6.0-windows\GUIForJTS.Form1.resources
+Z:\JTS Project\GUIForJTS - BEFORE CONSOLE APP\obj\Debug\net6.0-windows\GUIForJTS.Properties.Resources.resources
+Z:\JTS Project\GUIForJTS - BEFORE CONSOLE APP\obj\Debug\net6.0-windows\GUIForJTS.TechnicianPage.resources
+Z:\JTS Project\GUIForJTS - BEFORE CONSOLE APP\obj\Debug\net6.0-windows\GUIForJTS.UpdateTicket.resources
+Z:\JTS Project\GUIForJTS - BEFORE CONSOLE APP\obj\Debug\net6.0-windows\GUIForJTS.csproj.GenerateResource.cache
+Z:\JTS Project\GUIForJTS - BEFORE CONSOLE APP\obj\Debug\net6.0-windows\GUIForJTS.GeneratedMSBuildEditorConfig.editorconfig
+Z:\JTS Project\GUIForJTS - BEFORE CONSOLE APP\obj\Debug\net6.0-windows\GUIForJTS.AssemblyInfoInputs.cache
+Z:\JTS Project\GUIForJTS - BEFORE CONSOLE APP\obj\Debug\net6.0-windows\GUIForJTS.AssemblyInfo.cs
+Z:\JTS Project\GUIForJTS - BEFORE CONSOLE APP\obj\Debug\net6.0-windows\GUIForJTS.csproj.CoreCompileInputs.cache
+Z:\JTS Project\GUIForJTS - BEFORE CONSOLE APP\obj\Debug\net6.0-windows\GUIForJTS.dll
+Z:\JTS Project\GUIForJTS - BEFORE CONSOLE APP\obj\Debug\net6.0-windows\refint\GUIForJTS.dll
+Z:\JTS Project\GUIForJTS - BEFORE CONSOLE APP\obj\Debug\net6.0-windows\GUIForJTS.pdb
+Z:\JTS Project\GUIForJTS - BEFORE CONSOLE APP\obj\Debug\net6.0-windows\GUIForJTS.genruntimeconfig.cache
+Z:\JTS Project\GUIForJTS - BEFORE CONSOLE APP\obj\Debug\net6.0-windows\ref\GUIForJTS.dll
+Z:\JTS Project\GUIForJTS - FOR_TESTING\bin\Debug\net6.0-windows\GUIForJTS.exe
+Z:\JTS Project\GUIForJTS - FOR_TESTING\bin\Debug\net6.0-windows\GUIForJTS.deps.json
+Z:\JTS Project\GUIForJTS - FOR_TESTING\bin\Debug\net6.0-windows\GUIForJTS.runtimeconfig.json
+Z:\JTS Project\GUIForJTS - FOR_TESTING\bin\Debug\net6.0-windows\GUIForJTS.dll
+Z:\JTS Project\GUIForJTS - FOR_TESTING\bin\Debug\net6.0-windows\GUIForJTS.pdb
+Z:\JTS Project\GUIForJTS - FOR_TESTING\bin\Debug\net6.0-windows\EntityFramework.SqlServer.dll
+Z:\JTS Project\GUIForJTS - FOR_TESTING\bin\Debug\net6.0-windows\EntityFramework.dll
+Z:\JTS Project\GUIForJTS - FOR_TESTING\bin\Debug\net6.0-windows\System.Data.SQLite.dll
+Z:\JTS Project\GUIForJTS - FOR_TESTING\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+Z:\JTS Project\GUIForJTS - FOR_TESTING\bin\Debug\net6.0-windows\System.Data.SQLite.EF6.dll
+Z:\JTS Project\GUIForJTS - FOR_TESTING\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+Z:\JTS Project\GUIForJTS - FOR_TESTING\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+Z:\JTS Project\GUIForJTS - FOR_TESTING\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+Z:\JTS Project\GUIForJTS - FOR_TESTING\bin\Debug\net6.0-windows\runtimes\linux-x64\native\SQLite.Interop.dll
+Z:\JTS Project\GUIForJTS - FOR_TESTING\bin\Debug\net6.0-windows\runtimes\osx-x64\native\SQLite.Interop.dll
+Z:\JTS Project\GUIForJTS - FOR_TESTING\bin\Debug\net6.0-windows\runtimes\win-x64\native\SQLite.Interop.dll
+Z:\JTS Project\GUIForJTS - FOR_TESTING\bin\Debug\net6.0-windows\runtimes\win-x86\native\SQLite.Interop.dll
+Z:\JTS Project\GUIForJTS - FOR_TESTING\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+Z:\JTS Project\GUIForJTS - FOR_TESTING\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+Z:\JTS Project\GUIForJTS - FOR_TESTING\obj\Debug\net6.0-windows\GUIForJTS.csproj.AssemblyReference.cache
+Z:\JTS Project\GUIForJTS - FOR_TESTING\obj\Debug\net6.0-windows\GUIForJTS.Boundary.CustomerScreen.resources
+Z:\JTS Project\GUIForJTS - FOR_TESTING\obj\Debug\net6.0-windows\GUIForJTS.Boundary.Form.resources
+Z:\JTS Project\GUIForJTS - FOR_TESTING\obj\Debug\net6.0-windows\GUIForJTS.Boundary.LoginForm.resources
+Z:\JTS Project\GUIForJTS - FOR_TESTING\obj\Debug\net6.0-windows\GUIForJTS.Boundary.TicketForm.resources
+Z:\JTS Project\GUIForJTS - FOR_TESTING\obj\Debug\net6.0-windows\GUIForJTS.Boundary.TicketScreen.resources
+Z:\JTS Project\GUIForJTS - FOR_TESTING\obj\Debug\net6.0-windows\GUIForJTS.Boundary.UpdateScreen.resources
+Z:\JTS Project\GUIForJTS - FOR_TESTING\obj\Debug\net6.0-windows\GUIForJTS.Properties.Resources.resources
+Z:\JTS Project\GUIForJTS - FOR_TESTING\obj\Debug\net6.0-windows\GUIForJTS.CustomTextBox.resources
+Z:\JTS Project\GUIForJTS - FOR_TESTING\obj\Debug\net6.0-windows\GUIForJTS.Form1.resources
+Z:\JTS Project\GUIForJTS - FOR_TESTING\obj\Debug\net6.0-windows\GUIForJTS.ticketBox.resources
+Z:\JTS Project\GUIForJTS - FOR_TESTING\obj\Debug\net6.0-windows\GUIForJTS.TicketFormGUI.resources
+Z:\JTS Project\GUIForJTS - FOR_TESTING\obj\Debug\net6.0-windows\GUIForJTS.UpdateScreenGUI.resources
+Z:\JTS Project\GUIForJTS - FOR_TESTING\obj\Debug\net6.0-windows\GUIForJTS.csproj.GenerateResource.cache
+Z:\JTS Project\GUIForJTS - FOR_TESTING\obj\Debug\net6.0-windows\GUIForJTS.GeneratedMSBuildEditorConfig.editorconfig
+Z:\JTS Project\GUIForJTS - FOR_TESTING\obj\Debug\net6.0-windows\GUIForJTS.AssemblyInfoInputs.cache
+Z:\JTS Project\GUIForJTS - FOR_TESTING\obj\Debug\net6.0-windows\GUIForJTS.AssemblyInfo.cs
+Z:\JTS Project\GUIForJTS - FOR_TESTING\obj\Debug\net6.0-windows\GUIForJTS.csproj.CoreCompileInputs.cache
+Z:\JTS Project\GUIForJTS - FOR_TESTING\obj\Debug\net6.0-windows\GUIForJTS.csproj.CopyComplete
+Z:\JTS Project\GUIForJTS - FOR_TESTING\obj\Debug\net6.0-windows\GUIForJTS.dll
+Z:\JTS Project\GUIForJTS - FOR_TESTING\obj\Debug\net6.0-windows\refint\GUIForJTS.dll
+Z:\JTS Project\GUIForJTS - FOR_TESTING\obj\Debug\net6.0-windows\GUIForJTS.pdb
+Z:\JTS Project\GUIForJTS - FOR_TESTING\obj\Debug\net6.0-windows\GUIForJTS.genruntimeconfig.cache
+Z:\JTS Project\GUIForJTS - FOR_TESTING\obj\Debug\net6.0-windows\ref\GUIForJTS.dll
