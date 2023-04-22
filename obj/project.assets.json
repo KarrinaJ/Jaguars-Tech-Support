@@ -1221,11 +1221,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "Z:\\JTS Project\\JaguarsTechSupport\\Jaguars Tech Support.csproj",
+      "projectUniqueName": "C:\\Users\\KJ\\Documents\\JaguarsTechSupport\\Jaguars-Tech-Support\\Jaguars Tech Support.csproj",
       "projectName": "Jaguars Tech Support",
-      "projectPath": "Z:\\JTS Project\\JaguarsTechSupport\\Jaguars Tech Support.csproj",
+      "projectPath": "C:\\Users\\KJ\\Documents\\JaguarsTechSupport\\Jaguars-Tech-Support\\Jaguars Tech Support.csproj",
       "packagesPath": "C:\\Users\\KJ\\.nuget\\packages\\",
-      "outputPath": "Z:\\JTS Project\\JaguarsTechSupport\\obj\\",
+      "outputPath": "C:\\Users\\KJ\\Documents\\JaguarsTechSupport\\Jaguars-Tech-Support\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

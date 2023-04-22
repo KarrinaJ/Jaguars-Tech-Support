@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "zgoRPNmXWCfGzzpWfQV3dKECNbySf7VFqKTI4tJBSEqTt6Vk9GCkO9Dy9id69yJFu/vtq3ayn3lWQjTgzkUqKA==",
+  "dgSpecHash": "0RPLJFfG+lbrR4BVGCxJRcpSJYQsf8sGQWDzslIO2glKPFYjP2cPcbQHxRTC87cYqpskCy+VoTnjbsQ06vKyCQ==",
   "success": true,
-  "projectFilePath": "Z:\\JTS Project\\JaguarsTechSupport\\Jaguars Tech Support.csproj",
+  "projectFilePath": "C:\\Users\\KJ\\Documents\\JaguarsTechSupport\\Jaguars-Tech-Support\\Jaguars Tech Support.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\KJ\\.nuget\\packages\\entityframework\\6.4.4\\entityframework.6.4.4.nupkg.sha512",
     "C:\\Users\\KJ\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
