@@ -12,10 +12,12 @@ namespace Entity
         private string name;
         private string email;
         private string techName;
-        private int ticketNo = 1170; //starting place for our system
+        private int ticketNo;
         private string ticketSubject;
         private string status;
         private string ticketDescription;
+        private string assignID;
+        private string creatorID;
 
         public string Name
         {
@@ -110,6 +112,31 @@ namespace Entity
             }
         }
 
+        public string AssignID
+        {
+            get
+            {
+                return assignID;
+            }
+
+            set
+            {
+                assignID = value;
+            }
+        }
+
+        public string CreatorID
+        {
+            get
+            {
+                return creatorID;
+            }
+
+            set
+            {
+                creatorID = value;
+            }
+        }
         //When a customer opens the "Create a Ticket" page. Ticket subject and description are set by the user.
         public Ticket(string email_param)
         {
@@ -128,18 +155,12 @@ namespace Entity
             TicketNo = ticketNo;
             TicketSubject = ticketSub;
             TicketDescription = ticketDesc;
-            Status = status;
+            Status = status; 
         }
 
         public Ticket()
         {
             //default for DBConnector to add to ticketList when Calling DBConnector.GetTickets()
-        }
-
-        //Printing ticket info
-        public override string ToString()
-        {
-            return $"Name: {Name}\nEmail: {Email}\nTechnician: {TechName}\nTicket No: {TicketNo}\nStatus: {Status}\nSubject: {TicketSubject} \nDescription: {TicketDescription}";
         }
 
     }

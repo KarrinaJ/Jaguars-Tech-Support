@@ -9,9 +9,9 @@ namespace Control
 {
     internal class LogoutControl
     {
-        public void Logout(Event logout)
+        public static void Logout(string email)
         {
-            //DBConnector.SaveLogout(logout);
+           DBConnector.SaveLogout(email);
         }
     }
 }

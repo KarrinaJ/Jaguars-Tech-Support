@@ -19,13 +19,9 @@ namespace Jaguars_Tech_Support.Boundary
             InitializeComponent();
         }
 
-        public void Logout()
+        public virtual void Logout()
         {
-            Close();
-            LoginForm login = new LoginForm();
-            login.Show();
-            MessageBox.Show("You've been logged out");
-            //not finished
+
         }
 
         private void button1_Click(object sender, EventArgs e)
