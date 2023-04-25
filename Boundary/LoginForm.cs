@@ -20,6 +20,7 @@ namespace Jaguars_Tech_Support.Boundary
         private Label label3;
         private Label label4;
         protected CustomTextBox emailTextBox;
+        private Label logoutMessage;
         protected CustomTextBox passwordTextBox;
 
         /// <summary>
@@ -37,6 +38,7 @@ namespace Jaguars_Tech_Support.Boundary
             label4 = new Label();
             emailTextBox = new CustomTextBox();
             passwordTextBox = new CustomTextBox();
+            logoutMessage = new Label();
             panel1.SuspendLayout();
             SuspendLayout();
             // 
@@ -185,12 +187,24 @@ namespace Jaguars_Tech_Support.Boundary
             passwordTextBox.Texts = "";
             passwordTextBox.UnderlinedSytle = false;
             // 
+            // logoutMessage
+            // 
+            logoutMessage.AutoSize = true;
+            logoutMessage.Font = new Font("Segoe UI Light", 12F, FontStyle.Regular, GraphicsUnit.Point);
+            logoutMessage.Location = new Point(540, 177);
+            logoutMessage.Name = "logoutMessage";
+            logoutMessage.Size = new Size(133, 21);
+            logoutMessage.TabIndex = 13;
+            logoutMessage.Text = "Logout Successful.";
+            logoutMessage.Visible = false;
+            // 
             // LoginForm
             // 
             AutoScaleDimensions = new SizeF(7F, 15F);
             AutoScaleMode = AutoScaleMode.Font;
             BackColor = Color.FromArgb(224, 224, 224);
             ClientSize = new Size(1184, 861);
+            Controls.Add(logoutMessage);
             Controls.Add(passwordTextBox);
             Controls.Add(emailTextBox);
             Controls.Add(label4);
@@ -228,11 +242,6 @@ namespace Jaguars_Tech_Support.Boundary
             Submit();
         }
 
-        public void Display(string INFO)
-        {
-
-        }
-
         private void LoginForm_Closed(object sender, FormClosedEventArgs e)
         {
             // Check if there are any open forms
@@ -241,6 +250,11 @@ namespace Jaguars_Tech_Support.Boundary
                 // All forms have been closed, so exit the application
                 Application.Exit();
             }
+        }
+
+        public void DisplayLogout()
+        {
+            logoutMessage.Visible = true;
         }
     }
 }

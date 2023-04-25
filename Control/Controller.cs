@@ -11,7 +11,7 @@ namespace Control
     abstract class Controller
     {
         private Form1 form;
-        //private TicketList list;
+        private TicketList<Ticket> list;
         private Controller controller;
         private Ticket ticket;
 

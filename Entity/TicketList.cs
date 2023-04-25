@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Entity
 {
-    public class TicketList<Ticket>:List<Ticket>
+    public class TicketList<Ticket> : List<Ticket>
     {
         private List<Ticket> tickets;
         public List<Ticket> Tickets
@@ -16,8 +16,8 @@ namespace Entity
 
         public TicketList()
         {
-           Tickets = new List<Ticket>();
+            
         }
-       
+
     }
 }

@@ -1,4 +1,5 @@
-﻿using Entity;
+﻿using Control;
+using Entity;
 using GUIForJTS;
 using System;
 using System.Collections.Generic;
@@ -15,10 +16,12 @@ namespace Jaguars_Tech_Support.Boundary
     public partial class TechnicianScreen : TicketScreen
     {
         TicketList<Ticket> TXLIST = new TicketList<Ticket>();
-        public TechnicianScreen(TicketList<Ticket> list, string name)
+        Account currentUser = new Account();
+        public TechnicianScreen(TicketList<Ticket> list, Account user)
         {
+            currentUser = user;
             InitializeComponent();
-            label8.Text = name;
+            label8.Text = user.Name;
             foreach (Ticket t in list)
             {
                 TXLIST.Add(t);
@@ -47,6 +50,20 @@ namespace Jaguars_Tech_Support.Boundary
         private void TechnicianScreen_Load(object sender, EventArgs e)
         {
             Display(TXLIST);
+        }
+
+        public override void Logout()
+        {
+            Close();
+            LoginForm login = new LoginForm();
+            login.Show();
+            LogoutControl.Logout(currentUser.Email);
+            login.DisplayLogout();
+        }
+
+        public void SelectTicket(int ticketNo)
+        {
+            //Not yet implemented.
         }
     }
 }

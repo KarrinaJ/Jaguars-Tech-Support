@@ -25,18 +25,22 @@ namespace Control
                 TicketList<Ticket> txList = DBConnector.GetTickets(user); //If the account exists, get the tickets associated with it
                 if (user.UserType == "Customer")
                 {
-                    CustomerScreen custView = new CustomerScreen(txList, user.Name);
-                    custView.Display(txList);
+                    CustomerScreen custView = new CustomerScreen(txList, user);
                     custView.Show();
+                    custView.Display(txList);
+                    
+                    DBConnector.SaveLogin(user.Email);
                     LoginForm obj = (LoginForm)Application.OpenForms["LoginForm"];
                     obj.Close();
                 }
 
                 else if (user.UserType == "Technician")
                 {
-                    TechnicianScreen techView = new TechnicianScreen(txList, user.Name);
-                    techView.Display(txList);
+                    TechnicianScreen techView = new TechnicianScreen(txList, user);
                     techView.Show();
+                    techView.Display(txList);
+                    
+                    DBConnector.SaveLogin(user.Email);
                     LoginForm obj = (LoginForm)Application.OpenForms["LoginForm"];
                     obj.Close();
                 }

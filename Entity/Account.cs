@@ -103,7 +103,6 @@ namespace Entity
         }
 
         //Email validation. Making sure user emails follow a certain format
-        //Put this in login controller instead? both??
         //Source https://www.youtube.com/watch?v=2ujFcfybwhw
         public static bool isValidEmail(string email)
         {

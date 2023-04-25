@@ -1,4 +1,5 @@
-﻿using System;
+﻿using Entity;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -8,5 +9,14 @@ namespace Control
 {
     internal class CreateControl
     {
+        public void CreateTicket(string userEmail)
+        {
+            //Not yet implemented.
+        }
+
+        public void Submit(Ticket ticket)
+        {
+            //Not yet implemented.
+        }
     }
 }

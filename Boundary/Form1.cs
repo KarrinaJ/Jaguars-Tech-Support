@@ -15,6 +15,7 @@ namespace Jaguars_Tech_Support.Boundary
 
         }
 
-        //Open() and Close() methods are inherited from "Form" so will not define them even though they're on object diagram.
+        //Open() and Close() methods are inherited from "Form" class provided by WinForms
+        //so they were removed from here and the object diagrams.
     }
 }

@@ -18,11 +18,12 @@ namespace Jaguars_Tech_Support.Boundary
     public partial class CustomerScreen : TicketScreen
     {
         TicketList<Ticket> TXLIST = new TicketList<Ticket>();
-
-        public CustomerScreen(TicketList<Ticket> list, string username)
+        Account currentUser = new Account();
+        public CustomerScreen(TicketList<Ticket> list, Account user)
         {
+            currentUser = user;
             InitializeComponent();
-            label2.Text = username;
+            label2.Text = user.Name;
             foreach (Ticket t in list)
             {
                 TXLIST.Add(t);
@@ -52,7 +53,20 @@ namespace Jaguars_Tech_Support.Boundary
             Display(TXLIST);
         }
 
+        public override void Logout()
+        {
+            Close();
+            LoginForm login = new LoginForm();
+            login.Show();
+            LogoutControl.Logout(currentUser.Email);
+            login.DisplayLogout();
+        }
         //dont forget to put the "start request" button back on the customer page
+
+        public void CreateTicket()
+        {
+            //Not yet implemented.
+        }
     }
 }
 

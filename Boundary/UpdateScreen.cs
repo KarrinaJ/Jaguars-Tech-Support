@@ -12,7 +12,12 @@ namespace Jaguars_Tech_Support.Boundary
     {
         public void Display(Ticket techTicket)
         {
+            //Not yet implemented.
+        }
 
+        public void Submit()
+        {
+            //Not yet implemented.
         }
     }
 }

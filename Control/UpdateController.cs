@@ -11,12 +11,12 @@ namespace Control
     {
         public void SelectTicket(int ticketNo)
         {
-
+            //Not yet implemented.
         }
 
         public void Submit(Ticket ticket)
         {
-
+            //Not yet implemented.
         }
     }
 }

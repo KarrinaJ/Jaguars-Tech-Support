@@ -1,6 +1,6 @@
 ﻿namespace Jaguars_Tech_Support.Boundary
 {
-    partial class TicketScreen
+     partial class TicketScreen
     {
         /// <summary>
         /// Required designer variable.

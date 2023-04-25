@@ -12,6 +12,12 @@ namespace Jaguars_Tech_Support.Boundary
         public TicketForm(string email)
         {
             //display new create a ticket form for the customer
+            //Not yet implemented.
+        }
+
+        public void Submit()
+        {
+            //Not yet implemented.
         }
     }
 }

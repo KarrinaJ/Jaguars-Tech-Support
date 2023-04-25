@@ -34,6 +34,7 @@
             label4 = new Label();
             label2 = new Label();
             label3 = new Label();
+            roundedButton1 = new GUIForJTS.RoundedButton();
             panel1.SuspendLayout();
             SuspendLayout();
             // 
@@ -108,12 +109,32 @@
             label3.TabIndex = 21;
             label3.Text = "My Submitted Tickets";
             // 
+            // roundedButton1
+            // 
+            roundedButton1.BackColor = Color.Black;
+            roundedButton1.BackgroundColor = Color.Black;
+            roundedButton1.BorderColor = Color.PaleVioletRed;
+            roundedButton1.BorderRadius = 40;
+            roundedButton1.BorderSize = 0;
+            roundedButton1.FlatAppearance.BorderSize = 0;
+            roundedButton1.FlatStyle = FlatStyle.Flat;
+            roundedButton1.Font = new Font("Segoe UI Light", 12F, FontStyle.Regular, GraphicsUnit.Point);
+            roundedButton1.ForeColor = Color.White;
+            roundedButton1.Location = new Point(89, 771);
+            roundedButton1.Name = "roundedButton1";
+            roundedButton1.Size = new Size(165, 40);
+            roundedButton1.TabIndex = 22;
+            roundedButton1.Text = "Start A New Request";
+            roundedButton1.TextColor = Color.White;
+            roundedButton1.UseVisualStyleBackColor = false;
+            // 
             // CustomerScreen
             // 
             AutoScaleDimensions = new SizeF(7F, 15F);
             AutoScaleMode = AutoScaleMode.Font;
             BackColor = Color.FromArgb(224, 224, 224);
             ClientSize = new Size(1184, 861);
+            Controls.Add(roundedButton1);
             Controls.Add(label3);
             Controls.Add(label7);
             Controls.Add(label6);
@@ -128,6 +149,7 @@
             Controls.SetChildIndex(label6, 0);
             Controls.SetChildIndex(label7, 0);
             Controls.SetChildIndex(label3, 0);
+            Controls.SetChildIndex(roundedButton1, 0);
             panel1.ResumeLayout(false);
             panel1.PerformLayout();
             ResumeLayout(false);
@@ -141,5 +163,6 @@
         private Label label4;
         private Label label2;
         private Label label3;
+        private GUIForJTS.RoundedButton roundedButton1;
     }
 }
